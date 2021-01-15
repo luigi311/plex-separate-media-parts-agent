@@ -3,7 +3,7 @@
 		"id": "ffmpeg_path",
 		"label": "Path to FFmpeg tool",
 		"type": "text",
-        "default": "/config/ffmpeg"
+        "default": "/usr/local/bin"
 	},
 	{
 		"id": "library_path",
